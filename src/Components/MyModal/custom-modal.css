@@ -6,5 +6,6 @@
 @media (max-width: 720px) {
 	.react-responsive-modal-modal {
 		min-width: 98% !important;
+		margin: 0 !important;
 	}
 }
